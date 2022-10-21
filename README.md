@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamirg26
-- 👀 I’m interested in aprender a programar y esto entre cual lenguaje de programcion escoger 
+- 👀 Actualmmente mi lenguaje de programacion de preferencia es JAVA  
 - 🌱 I’m currently learning  Java pero esto no quiere decir que me quede con ese lenguaje ,me interesa  JS, Python y Go.
 - 💞️ I’m looking to collaborate on  backend o frontend al futuro un fullstack developer 
 - 📫 How to reach me  en twitter @jamirg26
