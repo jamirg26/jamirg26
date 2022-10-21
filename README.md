@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamirg26
 - 👀 Actualmmente mi lenguaje de programacion de preferencia es JAVA  
-- 🌱 I’m currently learning  Java pero esto no quiere decir que me quede con ese lenguaje ,me interesa  JS, Python y Go.
+- 🌱 pero esto no quiere decir que estoy cerrada a conocer y aprender mas lenguajes de programcion  java es mi preferido, pero tambien JavaScript me interesa y phyton .
 - 💞️ I’m looking to collaborate on  backend o frontend al futuro un fullstack developer 
 - 📫 How to reach me  en twitter @jamirg26
 
